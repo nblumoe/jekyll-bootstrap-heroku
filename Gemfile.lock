@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/adaoraul/rack-jekyll.git
+  revision: 9ab9614be6a284dfd8e8c8e0c79011221c2ac8d9
+  specs:
+    rack-jekyll (0.4.0)
+      jekyll (~> 0.11.0)
+      rack (~> 1.4.1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -26,5 +34,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 0.11.2)
-  rack
+  rack-jekyll!
